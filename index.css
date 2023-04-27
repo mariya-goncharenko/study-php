@@ -1,0 +1,15 @@
+.task {
+    margin: 20px auto;
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    width: 650px;
+    border: solid 1px rgb(48, 155, 248);
+}
+
+.title{
+    margin: 0;
+    padding: 0;
+    color: rgb(48, 155, 248);
+}
